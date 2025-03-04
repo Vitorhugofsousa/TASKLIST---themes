@@ -39,7 +39,7 @@ O objetivo deste projeto é criar uma aplicação web simples e funcional para g
 1.  **Clone o Repositório:**
     
     ```bash
-    git clone [https://github.com/dolthub/dolt](https://github.com/dolthub/dolt)
+    git clone https://github.com/Vitorhugofsousa/TASKLIST.git
     ```
     
 2.  **Abra o `index.html`:**
